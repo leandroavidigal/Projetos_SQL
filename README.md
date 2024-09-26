@@ -14,7 +14,7 @@ Neste projeto, exploramos as funcionalidades básicas de SQL para:
 - Uso de consultas SQL para analisar variáveis como **idade**, **escolaridade** e **número de dependentes**;
 - Criação de visualizações a partir de dados para orientar decisões de negócios.
 
-[Veja o artigo completo sobre este projeto no Medium](https://medium.com/sua-publicacao-aqui](https://medium.com/@leandro.vidigal/introdu%C3%A7%C3%A3o-ao-sql-com-an%C3%A1lises-de-dados-reais-d9ec1d902053)).
+[Veja o artigo completo sobre este projeto no Medium](https://medium.com/sua-publicacao-aqui](https://medium.com/@leandro.vidigal/introdu%C3%A7%C3%A3o-ao-sql-com-an%C3%A1lises-de-dados-reais-d9ec1d902053).
 
 ### 2. **Próximos Projetos
 Esta série será expandida para incluir:
