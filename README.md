@@ -38,16 +38,23 @@ Este projeto explora o uso de filtros avançados e seleção condicional, aborda
 - **Seleção condicional com CASE**, criando categorias dinâmicas para os dados com base em condições específicas.
 - Práticas aplicadas no AWS Athena com consulta de dados em S3, demonstrando o poder do SQL em manipular e categorizar dados complexos.
 
-- ### 5. **Análise Avançada de Dados de Saúde com SQL**
+### 5. **Análise Avançada de Dados de Saúde com SQL**
 Neste projeto, exploramos funções de agregação e cláusulas avançadas, abordando:
 - **Funções de Agregação** como `SUM`, `AVG`, `MIN`, `MAX` e `COUNT` para sumarizar dados.
 - **Cláusula HAVING**, utilizada para filtrar grupos criados pelo comando `GROUP BY`.
 - Análises aplicadas em um conjunto de dados relacionado a ataques cardíacos, demonstrando como extrair insights importantes sobre saúde.
 - Práticas realizadas no AWS Athena com dados armazenados no S3, utilizando queries estruturadas para manipular e interpretar dados complexos.
 
-  ### 6. **Combinações e Junções de Tabelas em SQL**
+### 6. **Combinações e Junções de Tabelas em SQL**
 Neste projeto, exploramos diferentes técnicas de combinação e junção de tabelas, abordando:
 - **Operações UNION e UNION ALL**, utilizadas para combinar resultados de consultas eliminando ou preservando duplicatas.
 - **Junções INNER JOIN e CROSS JOIN**, aplicadas para identificar relações entre tabelas e realizar cruzamentos completos de dados.
 - **Junções LEFT JOIN e RIGHT JOIN**, que garantem a visualização de todos os registros de uma tabela principal e apenas os correspondentes da outra tabela.
 - Práticas aplicadas no AWS Athena para consolidar informações de múltiplas tabelas, demonstrando a importância das relações em bases de dados complexas.
+
+### 7. **SQL Avançado: Subqueries, Particionamento e Visões**
+Neste projeto, exploramos técnicas avançadas de consulta e organização de dados, abordando:
+- **Subqueries**: consultas aninhadas para condições dinâmicas e seleções condicionais.
+- **Particionamento**: estruturação de dados em pastas hierárquicas no AWS S3 para otimização de consultas no Athena.
+- **Visões**: criação de tabelas virtuais para simplificar consultas complexas e melhorar a reutilização de código SQL.
+- Práticas no AWS Athena demonstrando como essas técnicas aumentam a performance e reduzem custos em ambientes de dados complexos.
