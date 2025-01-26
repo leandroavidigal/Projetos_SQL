@@ -37,3 +37,10 @@ Este projeto explora o uso de filtros avançados e seleção condicional, aborda
 - **Padrões com LIKE e wildcards** para localizar valores baseados em correspondências parciais.
 - **Seleção condicional com CASE**, criando categorias dinâmicas para os dados com base em condições específicas.
 - Práticas aplicadas no AWS Athena com consulta de dados em S3, demonstrando o poder do SQL em manipular e categorizar dados complexos.
+
+- ### 5. **Análise Avançada de Dados de Saúde com SQL**
+Neste projeto, exploramos funções de agregação e cláusulas avançadas, abordando:
+- **Funções de Agregação** como `SUM`, `AVG`, `MIN`, `MAX` e `COUNT` para sumarizar dados.
+- **Cláusula HAVING**, utilizada para filtrar grupos criados pelo comando `GROUP BY`.
+- Análises aplicadas em um conjunto de dados relacionado a ataques cardíacos, demonstrando como extrair insights importantes sobre saúde.
+- Práticas realizadas no AWS Athena com dados armazenados no S3, utilizando queries estruturadas para manipular e interpretar dados complexos.
