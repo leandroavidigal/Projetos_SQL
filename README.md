@@ -30,3 +30,10 @@ Neste projeto, aprofundamos a manipulação de dados com SQL, abordando:
 - **Ordenação** de resultados utilizando `ORDER BY` para organizar dados de maneira eficiente.
 - **Limitação de resultados** com `LIMIT`, exibindo apenas os registros mais relevantes.
 - Práticas no AWS Athena para consultas otimizadas em dados armazenados no S3.
+
+### 4. **Filtros e Seleção Condicional em SQL**
+Este projeto explora o uso de filtros avançados e seleção condicional, abordando:
+- **Filtros com AND, OR, IN e BETWEEN** para refinar consultas de acordo com várias condições.
+- **Padrões com LIKE e wildcards** para localizar valores baseados em correspondências parciais.
+- **Seleção condicional com CASE**, criando categorias dinâmicas para os dados com base em condições específicas.
+- Práticas aplicadas no AWS Athena com consulta de dados em S3, demonstrando o poder do SQL em manipular e categorizar dados complexos.
