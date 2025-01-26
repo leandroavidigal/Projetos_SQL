@@ -16,8 +16,10 @@ Neste projeto, exploramos as funcionalidades básicas de SQL para:
 
 [Veja o artigo completo sobre este projeto no Medium](https://medium.com/@leandro.vidigal/introdu%C3%A7%C3%A3o-ao-sql-com-an%C3%A1lises-de-dados-reais-d9ec1d902053)
 
-### 2. **Próximos Projetos
-Esta série será expandida para incluir:
-- **Funções avançadas de SQL**, como JOINs, subconsultas e janelas de agregação;
-- **Integração de SQL com ferramentas de análise e machine learning**;
-- **Otimização de consultas** para manipular grandes volumes de dados de forma eficiente.
+### 2. Integração com AWS S3 e Athena
+Este projeto aborda a integração prática de SQL com serviços da AWS, incluindo o armazenamento no S3 e consultas no Athena.
+Destaques:
+- Configuração de buckets no AWS S3 para armazenamento de dados e resultados.
+- Criação de tabelas externas no Athena para acesso eficiente aos dados armazenados no S3.
+- Consultas avançadas no Athena para análise de dados como média de idade por sexo, filtros e ordenação.
+- Aplicação prática de SQL em um ambiente escalável, demonstrando como gerenciar grandes volumes de dados de forma eficiente.
